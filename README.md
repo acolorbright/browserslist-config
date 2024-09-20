@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Our standard level of browser support is the last two versions of all major browsers.
-
-We no longer support IE11.
+Our standard level of browser support includes:
+- The `defaults` query [recommended by Browserlist](https://github.com/browserslist/browserslist?tab=readme-ov-file#best-practices)
+- The NextJS [supported browser list](https://nextjs.org/docs/architecture/supported-browsers)
 
 ## Installation
 
